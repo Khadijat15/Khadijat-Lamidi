@@ -3,4 +3,5 @@
      |Excel| |SQL| |Power BI| |Python|
 
     ## 🧠 My PROJECTS
-    ### 📊 [Sales Dashboard - Excel]  (https://github.com/Khadijat15/KhadijatExcel)
+    ### 📊 [Sales Dashboard - Excel] 
+    [Display Text] (https://github.com/Khadijat15/KhadijatExcel)
