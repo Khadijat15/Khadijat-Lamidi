@@ -2,6 +2,5 @@
    A passionate data analyst exploring insights throuh data using:
      |Excel| |SQL| |Power BI| |Python|
 
-    ##  PROJECTS
-    ### 📊 [Sales Dashboard - Excel]
-    
+    ## 🧠 My PROJECTS
+    ### 📊 [Sales Dashboard - Excel]  (https://github.com/Khadijat15/KhadijatExcel)
